@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadythedecipher
-- 👀 I’m interested in Flutter/Java development 
+- 👀 I’m interested in Flutter/Java/JavaScript/Python development 
 - 🌱 I’m currently learning Full stack Development
-- 💞️ I’m looking to collaborate on mobile application development
+- 💞️ I’m looking to collaborate on mobile/web application development
 - 📫 How to reach me shadrack.abely321@gmail.com
 
 <!---
