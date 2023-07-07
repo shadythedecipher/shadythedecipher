@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shadrack.abely321@gmail.com**
 
-- ⚡ Fun fact **Fun fact about me: I enjoy exploring diverse programming languages and technologies, which makes me a versatile full stack developer. From Java and Dart with Flutter for mobile development, to React.js and JavaScript for web development, I love diving into different ecosystems. Additionally, I am skilled in HTML, CSS, and Tailwind CSS, allowing me to create visually appealing and user-friendly interfaces. Embracing this variety keeps me motivated and constantly learning in the ever-evolving world of software development.**
+- ⚡ Fun fact **I enjoy exploring diverse programming languages and technologies, which makes me a versatile full stack developer. From Java and Dart with Flutter for mobile development, to React.js and JavaScript for web development, I love diving into different ecosystems. Additionally, I am skilled in HTML, CSS, and Tailwind CSS, allowing me to create visually appealing and user-friendly interfaces. Embracing this variety keeps me motivated and constantly learning in the ever-evolving world of software development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
