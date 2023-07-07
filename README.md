@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadrack Abely Mwang'onda</h1>
 <h3 align="center">Versatile Full Stack Developer: Expertise in Java and Dart with Flutter for Mobile Development, Proficient in React.js and JavaScript for Web Development, Skilled in HTML, CSS, and Tailwind CSS</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadythedecipher" alt="shadythedecipher" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shedyixc" target="blank"><img src="https://img.shields.io/twitter/follow/shedyixc?logo=twitter&style=for-the-badge" alt="shedyixc" /></a> </p>
 
 - 🔭 I’m currently working with **Java and Dart development, Flutter for mobile development, React.js and JavaScript for web development, as well as HTML, CSS, and Tailwind CSS.**
