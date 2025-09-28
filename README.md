@@ -47,7 +47,7 @@ Every line I write is a step closer to simplicity and clarity.
 ## ⭐ Featured Projects
 
 | Tech | Purpose |
-|---|---|---|
+
 | Dart, Flutter | Modern Tanzanian task manager |
 | Java, PLpgSQL | Inventory management backend |
 | Java, HTML | Data exchange API |
