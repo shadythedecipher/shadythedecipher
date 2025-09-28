@@ -1,29 +1,87 @@
-<h1 align="center">Hi 👋, I'm Shadrack Abely Mwang'onda</h1>
-<h3 align="center">Versatile Full Stack Developer: Expertise in Java and Dart with Flutter for Mobile Development, Proficient in React.js and JavaScript for Web Development, Skilled in HTML, CSS, and Tailwind CSS</h3>
+<!-- Modern, Pixel-Perfect GitHub Profile README for shadythedecipher -->
 
-<p align="left"> <a href="https://twitter.com/shedyixc" target="blank"><img src="https://img.shields.io/twitter/follow/shedyixc?logo=twitter&style=for-the-badge" alt="shedyixc" /></a> </p>
+<h1 align="center" style="font-family:SF Pro Display, Montserrat, Arial, sans-serif; font-weight:700;">
+  Hi, I'm Shady 👨‍💻
+</h1>
+<p align="center" style="font-size:1.2rem; color:#333;">Senior Engineer | Tanzania<br>
+Crafting clarity from complexity. Building with precision, humility, and vision.</p>
 
-- 🔭 I’m currently working with **Java and Dart development, Flutter for mobile development, React.js and JavaScript for web development, as well as HTML, CSS, and Tailwind CSS.**
+---
 
-- 🌱 I’m currently learning **React js and Angular framework**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **React js projects**
+I'm a senior front-end and API developer rooted in Tanzania, driven by a passion for elegant code and impactful products.  
+Every line I write is a step closer to simplicity and clarity.  
+- **Mobile-first** is a mindset, not a buzzword.
+- **Storytelling** is in every commit.
+- I believe in building things that last, scale, and inspire.
 
-- 🤝 I’m looking for help with **React js projects**
+---
 
-- 📝 I regularly write articles on [twitter](twitter)
+## 🧭 My GitHub Journey
 
-- 💬 Ask me about **Anything related to Java and Dart development, Flutter for mobile development, React.js and JavaScript for web development, as well as HTML, CSS, and Tailwind CSS.**
+- **2019:** First open-source commit 
+- **2021:** Launched
+- **2022:** Built and scaled modern systems
+- **2023:** Created and Pioneered Multiple Startups
+- **2024:** Backend wizardry for Bank Of Tanxania RTIS system.
+  
+> View all 3304+ real contributions on [GitHub](https://github.com/search?q=author:shadythedecipher&sort=author-date&type=Commits)
 
-- 📫 How to reach me **shadrack.abely321@gmail.com**
+---
 
-- ⚡ Fun fact **I enjoy exploring diverse programming languages and technologies, which makes me a versatile full stack developer. From Java and Dart with Flutter for mobile development, to React.js and JavaScript for web development, I love diving into different ecosystems. Additionally, I am skilled in HTML, CSS, and Tailwind CSS, allowing me to create visually appealing and user-friendly interfaces. Embracing this variety keeps me motivated and constantly learning in the ever-evolving world of software development.**
+## 🛠️ My Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shedyixc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shedyixc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shadrack-abely-2222841b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadrack-abely-2222841b9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,typescript,javascript,java,dart,flutter,azure,aws" alt="Tech Stack" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadythedecipher&show_icons=true&locale=en&layout=compact" alt="shadythedecipher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadythedecipher&show_icons=true&locale=en" alt="shadythedecipher" /></p>
+- **Tailwind CSS**: pixel-perfect UI, responsive layouts
+- **TypeScript/Javascript**: for robust frontends and scalable APIs
+- **Pure Java**: heavy backend lifting, enterprise-ready
+- **Dart & Flutter**: beautiful cross-platform mobile apps
+- **Azure & AWS**: cloud hosting, scaling with confidence
+
+---
+
+## ⭐ Featured Projects
+
+| Tech | Purpose |
+|---|---|---|
+| Dart, Flutter | Modern Tanzanian task manager |
+| Java, PLpgSQL | Inventory management backend |
+| Java, HTML | Data exchange API |
+| Java, HTML | Event management platform |
+| Java, HTML | Scalable backend services |
+
+---
+
+## 📈 Stats & Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadythedecipher&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shadythedecipher&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shadythedecipher&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shadythedecipher"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/shadythedecipher"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center" style="color:#888;">
+  <em>Building for tomorrow, inspired by Tanzania, with the humility of a true senior.</em>
+</p>
+
+<!--
+  Crafted for mobile-first experience.
+  Real journey, real code, real impact.
+  If you see this, you know what senior looks like.
+-->
