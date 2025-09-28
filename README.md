@@ -42,8 +42,6 @@ timeline
     2025 : Cloud servers scale to new heights
 ```
   
-> View all 3304+ real contributions on [GitHub](https://github.com/search?q=author:shadythedecipher&sort=author-date&type=Commits)
-
 ---
 
 ## 🛠️ My Tech Stack
