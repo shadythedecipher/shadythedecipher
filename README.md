@@ -18,13 +18,29 @@ Every line I write is a step closer to simplicity and clarity.
 
 ---
 
-## 🧭 My GitHub Journey
+## 🧭 My Journey
 
-- **2019:** First open-source commit 
-- **2021:** Launched
-- **2022:** Built and scaled modern systems
-- **2023:** Created and Pioneered Multiple Startups
-- **2024:** Backend wizardry for Bank Of Tanxania RTIS system.
+From day one, I’ve built platforms that empower real growth.  
+- **2019:** Began with open-source, embracing the spirit of sharing and learning.
+- **THUB:** Engineered a platform where people unlock financial and knowledge potential—impacting thousands across Tanzania.
+- **E-Commerce (NDA):** Developed and scaled a leading home décor & appliances site, serving 20K+ active monthly users, pioneering seamless shopping experiences.
+- **Data Exchange Engine:** Built robust integrations for fast, secure data movement—connecting businesses and driving efficiency.
+- **Event Platform Core:** Enabled effortless event management and engagement, making organization simple and impactful.
+- **Scalable Cloud Server:** Architected backend systems for reliability, performance, and future growth—leveraging cloud-native designs on AWS and Azure.
+
+## 📅 Timeline
+
+```mermaid
+timeline
+    title My Real Developer Journey
+    2019 : Open-source beginnings
+    2020 : First professional backend launch
+    2021 : THUB platform goes live
+    2022 : Leading E-Commerce platform reaches 20K+ monthly users
+    2023 : Data Exchange Engine powers businesses
+    2024 : Event platform revolutionizes engagement
+    2025 : Cloud servers scale to new heights
+```
   
 > View all 3304+ real contributions on [GitHub](https://github.com/search?q=author:shadythedecipher&sort=author-date&type=Commits)
 
