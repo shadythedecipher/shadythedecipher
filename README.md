@@ -1,7 +1,7 @@
 <!-- Modern, Pixel-Perfect GitHub Profile README for shadythedecipher -->
 
 <h1 align="center" style="font-family:SF Pro Display, Montserrat, Arial, sans-serif; font-weight:700;">
-  Hi, I'm Shady 👨‍💻
+  Hi, I'm Shadrack Abely Mwang'onda 👨‍💻
 </h1>
 <p align="center" style="font-size:1.2rem; color:#333;">Senior Engineer | Tanzania<br>
 Crafting clarity from complexity. Building with precision, humility, and vision.</p>
