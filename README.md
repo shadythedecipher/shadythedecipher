@@ -84,9 +84,9 @@ timeline
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shadythedecipher"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/shadythedecipher"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shadrack-abely-2222841b9/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/shedyixc"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:shadrack.abely321@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center" style="color:#888;">
