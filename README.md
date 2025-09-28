@@ -44,17 +44,16 @@ Every line I write is a step closer to simplicity and clarity.
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-| Tech | Purpose |
+| 🏆 Project         | 💡 What It Does                                                            | 🛠️ Tech Focus          |
+|------------------- |---------------------------------------------------------------------------|------------------------|
+| THUB              | Platform empowering financial growth and learning for thousands.            | TypeScript, Tailwind, Java, AWS, Azure |
+| E-Commerce (NDA)  | Leading site for home décor & appliances, serving 20k+ monthly users.       | TypeScript, Tailwind, Java, AWS        |
+| Data Exchange Engine | Built secure, fast, and reliable data integrations.                      | Java, JavaScript, Azure                |
+| Event Platform Core  | Enabling seamless event organization and user engagement.                | Java, Tailwind CSS                     |
+| Scalable Cloud Server | Architected robust cloud-native backend systems.                        | Java, TypeScript, AWS                  |
 
-| Dart, Flutter | Modern Tanzanian task manager |
-| Java, PLpgSQL | Inventory management backend |
-| Java, HTML | Data exchange API |
-| Java, HTML | Event management platform |
-| Java, HTML | Scalable backend services |
-
----
 
 ## 📈 Stats & Impact
 
